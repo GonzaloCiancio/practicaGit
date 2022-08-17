@@ -26,4 +26,5 @@ body {
 p {
   /* text-shadow: -2px 1px 3px black; */
   color: yellow;
+  /* text-align: end; */
 }
