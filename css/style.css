@@ -5,3 +5,18 @@
   box-sizing: border-box;
   font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
+
+.rojo {
+  color: red;
+}
+.verde {
+  color: green;
+}
+
+body {
+  background: blue;
+}
+
+p {
+  color: rgb(21, 255, 0);
+}
